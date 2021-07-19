@@ -12,7 +12,7 @@ Arquivo utilizado:
 estrutura_quadros_inicial.json
 
 O objetivo é criar uma lista de dicionários, baseado na SEGUNDA chave (quadros) onde em cada um desses dicionários deverá ser inserida
-a PRIMEIRA chave (id_relatorio) .
+a PRIMEIRA chave (id_relatorio).
 
 Resultado final:
 estrutura_quadros_final.json
