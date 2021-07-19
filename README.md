@@ -11,7 +11,7 @@ https://colab.research.google.com/drive/1D-69VqiZhi8GFYo_JkyxT2H2E9E5sQp6?usp=sh
 Arquivo utilizado: 
 estrutura_quadros_inicial.json
 
-O objetivo é criar uma lista de dicionários, baseado na SEGUNDA chave (quadros) onde em cada um desses diconários deverá ser inserida
+O objetivo é criar uma lista de dicionários, baseado na SEGUNDA chave (quadros) onde em cada um desses dicionários deverá ser inserida
 a PRIMEIRA chave (id_relatorio).
 
 Resultado final:
