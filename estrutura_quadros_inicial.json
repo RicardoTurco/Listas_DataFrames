@@ -1,0 +1,98 @@
+[
+   {
+      "id_relatorio":"17",
+      "quadros":[
+         {
+            "descricao_quadro":"Quadro 1 - LFN001",
+            "id_quadro":"73",
+            "nome_quadro":"Q1",
+            "parametros":[
+               "CODIGO_EVENTO_CONTABIL"
+            ]
+         },
+         {
+            "descricao_quadro":"Quadro 2 - LFN001",
+            "id_quadro":"74",
+            "nome_quadro":"Q2",
+            "parametros":[
+               "CODIGO_EVENTO_CONTABIL"
+            ]
+         },
+         {
+            "descricao_quadro":"Quadro 3 - LFN001",
+            "id_quadro":"75",
+            "nome_quadro":"Q3",
+            "parametros":[
+               "CODIGO_EVENTO_CONTABIL",
+               "CODIGO_AGENTE"
+            ]
+         },
+         {
+            "descricao_quadro":"Quadro 4 - LFN001",
+            "id_quadro":"76",
+            "nome_quadro":"Q4",
+            "parametros":[
+               "CODIGO_EVENTO_CONTABIL",
+               "CODIGO_AGENTE"
+            ]
+         },
+         {
+            "descricao_quadro":"Quadro 5 - LFN001",
+            "id_quadro":"77",
+            "nome_quadro":"Q5",
+            "parametros":[
+               "CODIGO_EVENTO_CONTABIL",
+               "CODIGO_AGENTE"
+            ]
+         },
+         {
+            "descricao_quadro":"Quadro 6 - LFN001",
+            "id_quadro":"78",
+            "nome_quadro":"Q6",
+            "parametros":[
+               "CODIGO_EVENTO_CONTABIL",
+               "CODIGO_AGENTE"
+            ]
+         }
+      ]
+   },
+   {
+      "id_relatorio":"18",
+      "quadros":[
+         {
+            "descricao_quadro":"Quadro 3 - LFN002",
+            "id_quadro":"81",
+            "nome_quadro":"Q3",
+            "parametros":[
+               "CODIGO_EVENTO_CONTABIL"
+            ]
+         },
+         {
+            "descricao_quadro":"Quadro 4 - LFN002",
+            "id_quadro":"82",
+            "nome_quadro":"Q4",
+            "parametros":[
+               "CODIGO_EVENTO_CONTABIL"
+            ]
+         },
+         {
+            "descricao_quadro":"Quadro 1 - LFN002",
+            "id_quadro":"79",
+            "nome_quadro":"Q1",
+            "parametros":[
+               "CODIGO_EVENTO_CONTABIL",
+               "CODIGO_AGENTE"
+            ]
+         },
+         {
+            "descricao_quadro":"Quadro 2 - LFN002",
+            "id_quadro":"80",
+            "nome_quadro":"Q2",
+            "parametros":[
+               "CODIGO_EVENTO_CONTABIL",
+               "CODIGO_AGENTE"
+            ]
+         }
+      ]
+   }
+]

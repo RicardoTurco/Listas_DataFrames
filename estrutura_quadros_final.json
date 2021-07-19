@@ -1,0 +1,62 @@
+[
+   {
+      "descricao_quadro":"Quadro 1 - LFN001",
+      "id_quadro":"73",
+      "nome_quadro":"Q1",
+      "id_relatorio":"17"
+   },
+   {
+      "descricao_quadro":"Quadro 2 - LFN001",
+      "id_quadro":"74",
+      "nome_quadro":"Q2",
+      "id_relatorio":"17"
+   },
+   {
+      "descricao_quadro":"Quadro 3 - LFN001",
+      "id_quadro":"75",
+      "nome_quadro":"Q3",
+      "id_relatorio":"17"
+   },
+   {
+      "descricao_quadro":"Quadro 4 - LFN001",
+      "id_quadro":"76",
+      "nome_quadro":"Q4",
+      "id_relatorio":"17"
+   },
+   {
+      "descricao_quadro":"Quadro 5 - LFN001",
+      "id_quadro":"77",
+      "nome_quadro":"Q5",
+      "id_relatorio":"17"
+   },
+   {
+      "descricao_quadro":"Quadro 6 - LFN001",
+      "id_quadro":"78",
+      "nome_quadro":"Q6",
+      "id_relatorio":"17"
+   },
+   {
+      "descricao_quadro":"Quadro 3 - LFN002",
+      "id_quadro":"81",
+      "nome_quadro":"Q3",
+      "id_relatorio":"18"
+   },
+   {
+      "descricao_quadro":"Quadro 4 - LFN002",
+      "id_quadro":"82",
+      "nome_quadro":"Q4",
+      "id_relatorio":"18"
+   },
+   {
+      "descricao_quadro":"Quadro 1 - LFN002",
+      "id_quadro":"79",
+      "nome_quadro":"Q1",
+      "id_relatorio":"18"
+   },
+   {
+      "descricao_quadro":"Quadro 2 - LFN002",
+      "id_quadro":"80",
+      "nome_quadro":"Q2",
+      "id_relatorio":"18"
+   }
+]
